@@ -9,4 +9,4 @@ It's the results of the ML Bootcamp program (2000 participants) from Google for 
 * The Kaggle competition is [here](https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023/overview)
 
 
-* The dataset you is [here](https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023/data)
+* The dataset is [here](https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023/data)
